@@ -1,8 +1,10 @@
-Required Software:
+#  Architechture:
+[![im3.png](https://i.postimg.cc/xTCfM3by/im3.png)](https://postimg.cc/t7KGHPkY)
+# Required Software:
 
 PostMan(goto software in ubuntu and serach postman in software store)
 
-Steps to run:
+# Steps to run:
 
 1. Extract zip
 
@@ -49,6 +51,9 @@ Steps to run:
 22. now continue sending the post request from postman ans see how blocks are added in every 6 trnsaction.
 
 23. Verify the last hash with next block current hash
+
+
+
 
 
 
