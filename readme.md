@@ -1,4 +1,4 @@
-#  Architechture:
+#  Architechture :
 [![im3.png](https://i.postimg.cc/xTCfM3by/im3.png)](https://postimg.cc/t7KGHPkY)
 # PBFT Algorithm:
 [![img4.png](https://i.postimg.cc/tgH73Vbq/img4.png)](https://postimg.cc/Yvbpk0jZ)
